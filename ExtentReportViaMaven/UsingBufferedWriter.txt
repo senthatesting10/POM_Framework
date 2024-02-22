@@ -1,0 +1,8 @@
+Learn Automation using Buffered writer
+Wonderful Teaching Brother :) Thank you..
+#1- Why we need to include close() method after write operation each time. Have tried to run the program by without including close().Still it works. Can you please explain why we need to use close();
+#2-Please suggest a laptop that will be useful to learn automation and work on it
+
+
+Thanks
+

@@ -1,0 +1,7 @@
+Feature : open google feature
+Scenario:Open Google Website and search
+Given: User is entering google.com
+When: User clicks the search box
+And: Types the search terms as "sentha"
+Then: The user should see the search results
+
